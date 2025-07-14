@@ -1,0 +1,14 @@
+C:\Users\dell\source\repos\iterator\bin\Debug\net8.0\iterator.exe
+C:\Users\dell\source\repos\iterator\bin\Debug\net8.0\iterator.deps.json
+C:\Users\dell\source\repos\iterator\bin\Debug\net8.0\iterator.runtimeconfig.json
+C:\Users\dell\source\repos\iterator\bin\Debug\net8.0\iterator.dll
+C:\Users\dell\source\repos\iterator\bin\Debug\net8.0\iterator.pdb
+C:\Users\dell\source\repos\iterator\obj\Debug\net8.0\iterator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dell\source\repos\iterator\obj\Debug\net8.0\iterator.AssemblyInfoInputs.cache
+C:\Users\dell\source\repos\iterator\obj\Debug\net8.0\iterator.AssemblyInfo.cs
+C:\Users\dell\source\repos\iterator\obj\Debug\net8.0\iterator.csproj.CoreCompileInputs.cache
+C:\Users\dell\source\repos\iterator\obj\Debug\net8.0\iterator.dll
+C:\Users\dell\source\repos\iterator\obj\Debug\net8.0\refint\iterator.dll
+C:\Users\dell\source\repos\iterator\obj\Debug\net8.0\iterator.pdb
+C:\Users\dell\source\repos\iterator\obj\Debug\net8.0\iterator.genruntimeconfig.cache
+C:\Users\dell\source\repos\iterator\obj\Debug\net8.0\ref\iterator.dll
